@@ -1,0 +1,14 @@
+.menu {
+    margin-left: 90%;
+    padding: 0;
+}
+
+#menuUL {
+    list-style-type: none;
+    font:italic;
+    color:green;
+}
+
+.menuLI {
+    margin: 5px;
+}
